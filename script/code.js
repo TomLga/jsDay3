@@ -8,3 +8,22 @@ console.log(typeof (words))
 let jeff = name;
 jeff= 56
 console.log(typeof (jeff))
+
+
+//3.Go ahead and create a variable with every data type you know of. Double check that you covered all of them by using the typeof check.
+
+//undefined
+let x;
+console.log(typeof (x))
+
+//object
+let zero=null;
+console.log(typeof (zero))
+
+//booleans
+let answer=true;
+console.log(typeof (answer))
+
+//undefined
+let leg;
+console.log(typeof (leg))
